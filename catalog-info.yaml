@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: learn-terraform-github-actions
+spec:
+  type: service
+  lifecycle: experimental
+  owner: the-a-team
